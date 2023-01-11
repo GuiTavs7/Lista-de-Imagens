@@ -1,5 +1,5 @@
-# Menu Com Flexbox
-Projeto para treinar a criação de um cabeçalho com menu, sendo usado em um suposto site de um banco! 🚀
+# Lista de Imagens / Pinturas
+Trata-se de uma suposta de lista de imagens (pinturas) dispostas feitas com display flexbox! 🚀
 
 [<img src="./design/desktop.png" alt="design do app no desktop">](https://google.com)
 
